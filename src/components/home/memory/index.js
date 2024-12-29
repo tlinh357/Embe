@@ -1,5 +1,5 @@
 import React from "react";
-import { Images } from "../../../assets/images/wedding";
+import { Images } from "../../../assets/images/anhthem";
 import { SectionWrapper } from "../../../_principles/styles";
 import {
   ButtonShowMore,

@@ -10,7 +10,7 @@ import {
   ImageWrapper,
   Wrapper,
 } from "./styles";
-import { Images } from "../../assets/images/wedding";
+import { Images } from "../../assets/images/anhthem";
 
 function ImagesComponent() {
   const [currentImage, setCurrentImage] = React.useState(0);

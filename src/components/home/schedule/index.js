@@ -38,7 +38,7 @@ export function Schedule() {
           <EventWrapper>
             <EventLeft>
               <EventTime>Ngày 26,27,28</EventTime>
-              <EventText>Dọn dẹp nhà cửacửa, mua kẹo mứt, trang trí </EventText>
+              <EventText>Dọn dẹp nhà cửa, mua kẹo mứt, trang trí </EventText>
             </EventLeft>
             <IconWrapper>
               <FaGlassCheers />
@@ -59,7 +59,7 @@ export function Schedule() {
             <EventLeft>
               <EventTime>Ngày 30 </EventTime>
               <EventText>Xem táo quân, xem pháo hoa, 
-                ở bên gia đìnhđình </EventText>
+                ở bên gia đình </EventText>
             </EventLeft>
             <IconWrapper>
               <GiForkKnifeSpoon />

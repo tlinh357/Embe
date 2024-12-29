@@ -3,7 +3,7 @@ import Im2 from "./to.jpg";
 import Im3 from "./thiennguyen.jpg";
 import Im4 from "./dulich.jpg";
 import Im6 from "./banbe.jpg";
-import bg from "./bg.webp";
+// import bg from "./bg.webp";
 
 export const Images = [
   {
@@ -24,10 +24,5 @@ export const Images = [
   },
   {
     src: Im6,
-    alt: "img5",
-  },
-  {
-    src: bg,
-    alt: "bg",
-  },
+    alt: "img5",  },
 ];
