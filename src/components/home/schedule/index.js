@@ -21,7 +21,7 @@ export function Schedule() {
   return (
     <SectionWrapper>
       <Wrapper className="container">
-        <Title>Cuối năm ta nên làm gì ... </Title>
+        <Title>Cuối năm ta nên làm gì nhỉ ... </Title>
         <Invitation>... </Invitation>
         <SubTitle>
           {"Chỉ còn chưa đầy một tháng nữa thôi là năm mới lại đến "}
