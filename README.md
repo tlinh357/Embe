@@ -11,7 +11,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+<img loading="lazy" width="30px" src='./qr.png" alt="image_name png" />
 
-<img src='./qr.png' width=60%>
 ### Deploy embe.vercel.app
-# Embe
+# Embe 
+<img loading="lazy" width="30px" src='./qr.png" alt="image_name png" />
